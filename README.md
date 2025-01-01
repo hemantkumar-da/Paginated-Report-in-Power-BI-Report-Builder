@@ -37,4 +37,8 @@ Populate this parameter dynamically by linking it to the ‘Category’ field in
 **Print-Ready Format:** The report’s paginated design ensures it looks professional when exported as a PDF or printed.
 
 ![image](https://github.com/user-attachments/assets/75d97c12-ee4f-4688-8c81-abf6cce927a6)
+
 ![image](https://github.com/user-attachments/assets/2172b9d8-942e-4dc2-b46e-d40cbc430a72)
+
+![image](https://github.com/user-attachments/assets/56287fa6-7289-40e5-a6ad-50d3cdf9dc62)
+
