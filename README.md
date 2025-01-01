@@ -42,3 +42,5 @@ Populate this parameter dynamically by linking it to the ‘Category’ field in
 
 ![image](https://github.com/user-attachments/assets/56287fa6-7289-40e5-a6ad-50d3cdf9dc62)
 
+**Conclusion** :
+Paginated reports with dynamic parameters empower users to gain actionable insights from their data with precision. The Superstore Invoice Report showcases how Power BI Report Builder can be used to create flexible reports. Leveraging dynamic parameters adds significant value to the reports.
